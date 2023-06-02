@@ -9,6 +9,6 @@ public class Main {
         salesTax = Math.round(salesTax * 100.0) / 100.0;
         System.out.println("The sales tax on your purchase is " + salesTax + " dollars"
         + " and the price of purchase was " + priceOfPurchase + " dollars so the total is " +
-                totalCost + " dollars.");
+                totalCost + " dollars!");
     }
 }
